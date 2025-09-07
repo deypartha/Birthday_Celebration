@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import Loader from "./component/Loader";
-import Home from "./component/Home";
+import Loader from "./components/Loader";
+import Home from "./components/Home";
 import "./App.css";
 // import Description from "./component/Description";
 
